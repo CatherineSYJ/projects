@@ -1,0 +1,5 @@
+Titanic project:
+
+Google colab link:
+
+https://colab.research.google.com/drive/1xWX5DfO26FzH3vZVMRkL14I41vulaDqY#scrollTo=tIH21v1UI-ct
