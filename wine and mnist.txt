@@ -1,5 +1,0 @@
-Wine and Mnist project:
-
-Google colab link:
-
-https://colab.research.google.com/drive/1iUR9BHe6FxNqDPgIwzvkcq9uqWqnqFvD?usp=sharing
